@@ -61,7 +61,7 @@ int main() {
     switch (opcion) {
       // registrar equipos
     case 1: {
-      cout << " REGISTRO DE PARTIDOS " << endl;
+      cout << "||| REGISTRO DE PARTIDOS |||" << endl;
       int opcion;
       string equipo_1, equipo_2;
 
