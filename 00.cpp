@@ -48,7 +48,7 @@ int main() {
 
   int opcion;
   do {
-    cout << "=== SIMULADOR DE TORNEO DE FUTBOL ===" << endl;
+    cout << "===== SIMULADOR DE TORNEO DE FUTBOL ====" << endl;
     cout << "1. Registro partido" << endl;
     cout << "2. Mostrar tabla de posiciones" << endl;
     cout << "3. Buscar equipo" << endl;
